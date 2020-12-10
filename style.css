@@ -1,0 +1,38 @@
+body{
+   background-image: url(image.jpg);
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   height: 100%;
+   width: 100%;
+   margin-top: 100px;
+   margin-bottom: 70px;
+}
+.icons{
+    text-align: center;
+    margin-top: 20px;
+}
+i{
+    color: #ffffff;
+    background-color: black;
+    border-radius: 50%;
+    border: 1px solid black;
+    padding: 15px;
+}
+.card-action{
+    text-align: center;
+}
+.login .card{
+    background: rgba(0, 0, 0, .6);
+}
+.login label{
+    font-size: 15px;
+    color: #ffffff !important;
+}
+.login input{
+    font-size: 15px !important;
+    color: #ffffff !important;
+}
+button{
+    width: 100%;
+}
